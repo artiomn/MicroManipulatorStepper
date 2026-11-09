@@ -2,19 +2,21 @@
 
 ## Mechanics
 
-| Name | Qty | Description | Comments | Suggested link | Image |
-|------|-----|-------------|----------|----------------|-------|
-| Steel ball | 12 | Ø1 mm (0.04") | Precision G10 or better. Can be sourced from small ball bearings | |
-| PU stretch cord | 1 m | Ø1mm | e.g. "Stretch Magic" or "Magic String" | [Aliexpress](https://www.aliexpress.us/item/3256805953910514.html)| ![Pu strech cord](images/PU_StretchCord.png)|
-| Neodym Cylinder Magnet | 70 | Ø3mm h=5 mm | N52 Grade | [NeoMagnets](https://www.buyneomagnets.com/p/3mm-dia-x-5mm-thick-n52-neodymium-rare-earth-disc-magnets-100-pack/)|
-| Brass Pipe | 1 m | OD=Ø2mm ID=Ø1 mm |  | [Amazon](https://a.co/d/1pRFmtf)| ![Brass Pipe](images/BrassPipe.png)|
-| M2-8 dowel     | 9   |             |          |                |       |
-| SHCS M2-8      | 9   |             |          |                |       |
-| Set Screw M3-6 | 3   |             |          |                |       |
-| FHCS M3-6      | 3   |             |          |                |       |
-| FHCS M3-10     | 9   |             |          |                |       |
-| FHCS M3-20     | 12  |             |          |                |       |
-| Crimp Beads    | 12  |             | Used to affix the ends of the PU cord |  |       |
+| Name | Qty | Description | Comments | Suggested link | Image | Price |
+|------|-----|-------------|----------|----------------|-------|-------|
+| Steel ball | 12 | Ø1 mm (0.04") | Precision G10 or better. Can be sourced from small ball bearings | ||
+| PU stretch cord | 1 m | Ø1mm | e.g. "Stretch Magic" or "Magic String" | [Aliexpress](https://www.aliexpress.us/item/3256805953910514.html)| ![Pu strech cord](images/PU_StretchCord.png)||
+| Neodym Cylinder Magnet | 70 | Ø3mm h=5 mm | N52 Grade | [NeoMagnets](https://www.buyneomagnets.com/p/3mm-dia-x-5mm-thick-n52-neodymium-rare-earth-disc-magnets-100-pack/)||
+| Brass Pipe | 1 m | OD=Ø2mm ID=Ø1 mm |  | [Amazon](https://a.co/d/1pRFmtf)| ![Brass Pipe](images/BrassPipe.png)||
+| M2-8 dowel     | 9   |             |          |                |       ||
+| SHCS M2-8      | 9   |             |          |                |       ||
+| Set Screw M3-6 | 3   |             |          |                |       ||
+| FHCS M3-6      | 3   |             |          |                |       ||
+| FHCS M3-10     | 9   |             |          |                |       ||
+| FHCS M3-20     | 12  |             |          |                |       ||
+| Crimp Beads    | 12  |             | Used to affix the ends of the PU cord |  |       ||
+
+
 ## Electronics
 
 | Name | Qty | Description | Comments | Suggested link | Image |
