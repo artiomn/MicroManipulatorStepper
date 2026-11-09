@@ -21,11 +21,11 @@
 
 | Name | Qty | Description | Comments | Suggested link | Image | Price |
 |------|-----|-------------|----------|----------------|-------|-------|
-| DC-DC Step Down Module | 1 | 5V Fixed Output Step-Down Buck Converter |  | [Aliexpress](https://www.ozon.ru/product/modul-ponizhayushchego-stabilizirovannogo-istochnika-pitaniya-dc-dc-mini560-pro-s-5555558798)| ![DC-DC Step Down](images/Fixed_DC_DC-StepDown.png)|65\
+| DC-DC Step Down Module | 1 | 5V Fixed Output Step-Down Buck Converter |  | [Aliexpress](https://www.ozon.ru/product/modul-ponizhayushchego-stabilizirovannogo-istochnika-pitaniya-dc-dc-mini560-pro-s-5555558798)| ![DC-DC Step Down](images/Fixed_DC_DC-StepDown.png)|65|
 | (1N5819) OR (PMEG4010) | 1 | Diode (through-hole or SMD) |  | ||
 | Raspberry Pi Pico 2 | 1 | Microcontroller board |  | | ![Raspberry Pi Pico 2](images/RaspberryPiPico2.png)||
-| MT6835 Magnetic Encoder Module | 3 | Magnetic encoder |  | [Aliexpress]([https://www.aliexpress.us/item/3256808005140674.html](https://www.ozon.ru/product/mt6835-modul-magnitnogo-enkodera-pwm-spi-besshchetochnyy-dvigatel-5078688487/?sh=x0pAeg93Bg))| ![MT6835 Magnetic Encoder Module](images/MT6835.png)|296||
-| TB6612FNG Driver | 3 | |  | [Aliexpress](https://www.aliexpress.us/item/3256806060073976.html)| ![TB6612FNG Driver](images/TB6612FNG.png)||
+| MT6835 Magnetic Encoder Module | 3 | Magnetic encoder |  | [Aliexpress](https://www.ozon.ru/product/mt6835-modul-magnitnogo-enkodera-pwm-spi-besshchetochnyy-dvigatel-5078688487/?sh=x0pAeg93Bg))| ![MT6835 Magnetic Encoder Module](images/MT6835.png)|296|
+| TB6612FNG Driver | 3 | |  | [Aliexpress](https://www.ozon.ru/product/4sht-modul-drv8833-platy-drayvera-dvigatelya-2-7-10-8v-1-5a-tb6612fng-2402886954)| ![TB6612FNG Driver](images/TB6612FNG.png)|137|
 | 470 µF Electrolytic Capacitor | 3 | > 100 µF | anything > 100µF will work well | ||
 | 10 µF Ceramic Capacitor 0603 | 3 | Optional |  | ||
 | 4.7 k Resistor 0603 | 2 | Optional |  | ||
