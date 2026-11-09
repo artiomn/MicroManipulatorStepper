@@ -25,7 +25,7 @@
 | (1N5819) OR (PMEG4010) | 1 | Diode (through-hole or SMD) |  | ||
 | Raspberry Pi Pico 2 | 1 | Microcontroller board |  | | ![Raspberry Pi Pico 2](images/RaspberryPiPico2.png)||
 | MT6835 Magnetic Encoder Module | 3 | Magnetic encoder |  | [Ozon](https://www.ozon.ru/product/mt6835-modul-magnitnogo-enkodera-pwm-spi-besshchetochnyy-dvigatel-5078688487/?sh=x0pAeg93Bg)| ![MT6835 Magnetic Encoder Module](images/MT6835.png)|296|
-| TB6612FNG Driver | 3 | |  | [Ozon](https://www.ozon.ru/product/4sht-modul-drv8833-platy-drayvera-dvigatelya-2-7-10-8v-1-5a-tb6612fng-2402886954)| ![TB6612FNG Driver](images/TB6612FNG.png)|137|
+| TB6612FNG Driver | 3 | |  | [Ozon](https://www.ozon.ru/product/5sht-tb6612fng-plata-drayvera-motora-dlya-arduino-rpi-esp32-5408864708)| ![TB6612FNG Driver](images/TB6612FNG.png)|96|
 | 470 µF Electrolytic Capacitor | 3 | > 100 µF | anything > 100µF will work well | ||
 | 10 µF Ceramic Capacitor 0603 | 3 | Optional |  | ||
 | 4.7 k Resistor 0603 | 2 | Optional |  | ||
