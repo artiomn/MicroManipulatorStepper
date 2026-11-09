@@ -19,21 +19,22 @@
 
 ## Electronics
 
-| Name | Qty | Description | Comments | Suggested link | Image |
-|------|-----|-------------|----------|----------------|-------|
-| DC-DC Step Down Module | 1 | 5V Fixed Output Step-Down Buck Converter |  | [Aliexpress](https://www.aliexpress.com/item/1005008257960729.html)| ![DC-DC Step Down](images/Fixed_DC_DC-StepDown.png)|
-| (1N5819) OR (PMEG4010) | 1 | Diode (through-hole or SMD) |  | |
-| Raspberry Pi Pico 2 | 1 | Microcontroller board |  | | ![Raspberry Pi Pico 2](images/RaspberryPiPico2.png)|
-| MT6835 Magnetic Encoder Module | 3 | Magnetic encoder |  | [Aliexpress](https://www.aliexpress.us/item/3256808005140674.html)| ![MT6835 Magnetic Encoder Module](images/MT6835.png)|
-| TB6612FNG Driver | 3 | |  | [Aliexpress](https://www.aliexpress.us/item/3256806060073976.html)| ![TB6612FNG Driver](images/TB6612FNG.png)|
-| 470 µF Electrolytic Capacitor | 3 | > 100 µF | anything > 100µF will work well | |
-| 10 µF Ceramic Capacitor 0603 | 3 | Optional |  | |
-| 4.7 k Resistor 0603 | 2 | Optional |  | |
-| NEMA 17 Stepper Motor | 3 | Body ≤ 38 mm | Body length <= 38mm | |
-| JST XH2.54 4P connector | 3 | 4P Housing & Header 2.54mm pitch | J1, J2, J3 (motors) | [Aliexpress](https://www.aliexpress.com/item/1005007080333485.html?spm=a2g0o.order_list.order_list_main.53.3d5d1802JZg5Wb) | ![JST XH2.54 Connector](images/JST_XH2.54_Connector.png) |
-| XT60H Connector | 1 | 2P Male & Female pair 7.5mm pitch | Power connector | [Aliexpress](https://www.aliexpress.com/item/1005007605928815.html?spm=a2g0o.order_list.order_list_main.409.3d5d1802JZg5Wb) | ![XT60H Connector](images/XT60H_Pairs.png) |
-| PH2.0 4P Housing <br> PH2.0 8P Housing | 1 <br> 1 | 4P 2mm pitch Housing <br> 8P 2mm pitch Housing | J5 (tool/I2C)<br> J4 (encoders) | [Aliexpress](https://www.aliexpress.com/item/1005010491403413.html?spm=a2g0o.order_detail.order_detail_item.3.2b60126a5SMahl) | ![PH2.0 Housings](images/PH2_Housings.png) |
-| PH2.0 4P Header <br> PH2.0 8P Header | 1 <br> 1 | 4P 2mm pitch Header <br> 8P 2mm pitch Header | J5 (tool/I2C) <br> J4 (encoders) | [Aliexpress](https://www.aliexpress.com/item/1005010491403413.html?spm=a2g0o.order_detail.order_detail_item.3.2b60126a5SMahl) | ![PH2.0 Headers](images/PH2_Headers.png) |
+| Name | Qty | Description | Comments | Suggested link | Image | Price |
+|------|-----|-------------|----------|----------------|-------|-------|
+| DC-DC Step Down Module | 1 | 5V Fixed Output Step-Down Buck Converter |  | [Aliexpress](https://www.ozon.ru/product/modul-ponizhayushchego-stabilizirovannogo-istochnika-pitaniya-dc-dc-mini560-pro-s-5555558798)| ![DC-DC Step Down](images/Fixed_DC_DC-StepDown.png)|65\
+| (1N5819) OR (PMEG4010) | 1 | Diode (through-hole or SMD) |  | ||
+| Raspberry Pi Pico 2 | 1 | Microcontroller board |  | | ![Raspberry Pi Pico 2](images/RaspberryPiPico2.png)||
+| MT6835 Magnetic Encoder Module | 3 | Magnetic encoder |  | [Aliexpress]([https://www.aliexpress.us/item/3256808005140674.html](https://www.ozon.ru/product/mt6835-modul-magnitnogo-enkodera-pwm-spi-besshchetochnyy-dvigatel-5078688487/?sh=x0pAeg93Bg))| ![MT6835 Magnetic Encoder Module](images/MT6835.png)|296||
+| TB6612FNG Driver | 3 | |  | [Aliexpress](https://www.aliexpress.us/item/3256806060073976.html)| ![TB6612FNG Driver](images/TB6612FNG.png)||
+| 470 µF Electrolytic Capacitor | 3 | > 100 µF | anything > 100µF will work well | ||
+| 10 µF Ceramic Capacitor 0603 | 3 | Optional |  | ||
+| 4.7 k Resistor 0603 | 2 | Optional |  | ||
+| NEMA 17 Stepper Motor | 3 | Body ≤ 38 mm | Body length <= 38mm | ||
+| JST XH2.54 4P connector | 3 | 4P Housing & Header 2.54mm pitch | J1, J2, J3 (motors) | [Aliexpress](https://www.aliexpress.com/item/1005007080333485.html?spm=a2g0o.order_list.order_list_main.53.3d5d1802JZg5Wb) | ![JST XH2.54 Connector](images/JST_XH2.54_Connector.png) ||
+| XT60H Connector | 1 | 2P Male & Female pair 7.5mm pitch | Power connector | [Aliexpress](https://www.aliexpress.com/item/1005007605928815.html?spm=a2g0o.order_list.order_list_main.409.3d5d1802JZg5Wb) | ![XT60H Connector](images/XT60H_Pairs.png) ||
+| PH2.0 4P Housing <br> PH2.0 8P Housing | 1 <br> 1 | 4P 2mm pitch Housing <br> 8P 2mm pitch Housing | J5 (tool/I2C)<br> J4 (encoders) | [Aliexpress](https://www.aliexpress.com/item/1005010491403413.html?spm=a2g0o.order_detail.order_detail_item.3.2b60126a5SMahl) | ![PH2.0 Housings](images/PH2_Housings.png) ||
+| PH2.0 4P Header <br> PH2.0 8P Header | 1 <br> 1 | 4P 2mm pitch Header <br> 8P 2mm pitch Header | J5 (tool/I2C) <br> J4 (encoders) | [Aliexpress](https://www.aliexpress.com/item/1005010491403413.html?spm=a2g0o.order_detail.order_detail_item.3.2b60126a5SMahl) | ![PH2.0 Headers](images/PH2_Headers.png) ||
+
 ## PCBs
 
 | Name                | Qty | Description | Comments | Image |
