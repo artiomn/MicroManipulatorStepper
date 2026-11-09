@@ -4,17 +4,17 @@
 
 | Name | Qty | Description | Comments | Suggested link | Image | Price |
 |------|-----|-------------|----------|----------------|-------|-------|
-| Steel ball | 12 | Ø1 mm (0.04") | Precision G10 or better. Can be sourced from small ball bearings | ||
-| PU stretch cord | 1 m | Ø1mm | e.g. "Stretch Magic" or "Magic String" | [Aliexpress](https://www.aliexpress.us/item/3256805953910514.html)| ![Pu strech cord](images/PU_StretchCord.png)||
-| Neodym Cylinder Magnet | 70 | Ø3mm h=5 mm | N52 Grade | [NeoMagnets](https://www.buyneomagnets.com/p/3mm-dia-x-5mm-thick-n52-neodymium-rare-earth-disc-magnets-100-pack/)||
-| Brass Pipe | 1 m | OD=Ø2mm ID=Ø1 mm |  | [Amazon](https://a.co/d/1pRFmtf)| ![Brass Pipe](images/BrassPipe.png)||
-| M2-8 dowel     | 9   |             |          |                |       ||
-| SHCS M2-8      | 9   |             |          |                |       ||
-| Set Screw M3-6 | 3   |             |          |                |       ||
-| FHCS M3-6      | 3   |             |          |                |       ||
-| FHCS M3-10     | 9   |             |          |                |       ||
-| FHCS M3-20     | 12  |             |          |                |       ||
-| Crimp Beads    | 12  |             | Used to affix the ends of the PU cord |  |       ||
+| Steel ball | 12 | Ø1 mm (0.04") | Precision G10 or better. Can be sourced from small ball bearings |[Ozon](https://www.ozon.ru/product/shar-podshipnika-stalnoy-1-mm-100-shtuk-rossiya-shh-15-3927566777)||3|
+| PU stretch cord | 1 m | Ø1mm | e.g. "Stretch Magic" or "Magic String" | [Aliexpress](https://www.aliexpress.us/item/3256805953910514.html)| ![Pu strech cord](images/PU_StretchCord.png)|3|
+| Neodym Cylinder Magnet | 70 | Ø3mm h=5 mm | N52 Grade | [Ozon](https://www.ozon.ru/product/magnit-dlya-krepleniya-usilennyy-prutok-3h5-mm-diametr-3-mm-tolshchina-5-mm-20-sht-4566723821)||14|
+| Brass Pipe | 1 m | OD=Ø2mm ID=Ø1 mm |  | [Ozon]([https://a.co/d/1pRFmtf](https://www.ozon.ru/product/trubka-latunnaya-2mm-vnutrenniy-diametr-1mm-dlina-200mm-1sht-4429212054))| ![Brass Pipe](images/BrassPipe.png)|50|
+| M2-8 dowel     | 9   |             | Штифт    |[Ozon](https://www.ozon.ru/product/shtift-tsilindricheskiy-m2-8-100-sht-nerzhaveyushchaya-stal-304-5736937262)||2|
+| SHCS M2-8      | 9   |             |          |[Ozon](https://www.ozon.ru/product/vint-m2-x-2-x-8-mm-golovka-potaynaya-20-sht-19-g-5233988148/)||9|
+| Set Screw M3-6 | 3   |             | Установочный винт |[Ozon](https://www.ozon.ru/product/vint-ustanovochnyy-m-3h6-prochnost-12-9-din-914-10-sht-3771802691)|       |10|
+| FHCS M3-6      | 3   |             |          |[Ozon](https://www.ozon.ru/product/vint-m3-x-3-x-6-mm-golovka-potaynaya-10-sht-20-g-1732887153/)||6|
+| FHCS M3-10     | 9   |             |          |[Ozon](https://www.ozon.ru/product/vint-m3-x-3-x-10-mm-golovka-potaynaya-20-sht-20-g-2942028661/)||4|
+| FHCS M3-20     | 12  |             |          |[Ozon](https://www.ozon.ru/product/vint-m3-x-3-x-20-mm-golovka-potaynaya-10-sht-25-g-5233988689)||14|
+| Crimp Beads    | 12  |             | Used to affix the ends of the PU cord |[Ozon](https://www.ozon.ru/product/obzhimnaya-busina-fiksator-dlya-biseropleteniya-latun-3-x-4-mm-50-sht-serebristogo-tsveta-6087690462)||4|
 
 
 ## Electronics
