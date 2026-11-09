@@ -27,8 +27,8 @@
 | MT6835 Magnetic Encoder Module | 3 | Magnetic encoder |  | [Ozon](https://www.ozon.ru/product/mt6835-modul-magnitnogo-enkodera-pwm-spi-besshchetochnyy-dvigatel-5078688487/?sh=x0pAeg93Bg)| ![MT6835 Magnetic Encoder Module](images/MT6835.png)|296|
 | TB6612FNG Driver | 3 | |  | [Ozon](https://www.ozon.ru/product/5sht-tb6612fng-plata-drayvera-motora-dlya-arduino-rpi-esp32-5408864708)| ![TB6612FNG Driver](images/TB6612FNG.png)|96|
 | 470 µF Electrolytic Capacitor | 3 | > 100 µF | anything > 100µF will work well | [Ozon](https://www.ozon.ru/product/kondensator-panasonic-eeufm1v471-elektroliticheskiy-kondensator-s-nizkim-impedansom-470mkf-1sht-1686008490)||226|
-| 10 µF Ceramic Capacitor 0603 | 3 | Optional |  | ||
-| 4.7 k Resistor 0603 | 2 | Optional |  | ||
+| 10 µF Ceramic Capacitor 0603 | 3 | Optional | | [Ozon](https://www.ozon.ru/product/0603-10mkf-x5r-6-3v-chip-kondensator-20sht-1188488581) | |6|
+| 4.7 k Resistor 0603 | 2 | Optional |  | [Ozon](https://www.ozon.ru/product/0603-4-7-kom-5-chip-rezistor-50sht-1188019220) ||2|
 | NEMA 17 Stepper Motor | 3 | Body ≤ 38 mm | Body length <= 38mm | ||
 | JST XH2.54 4P connector | 3 | 4P Housing & Header 2.54mm pitch | J1, J2, J3 (motors) | [Aliexpress](https://www.aliexpress.com/item/1005007080333485.html?spm=a2g0o.order_list.order_list_main.53.3d5d1802JZg5Wb) | ![JST XH2.54 Connector](images/JST_XH2.54_Connector.png) ||
 | XT60H Connector | 1 | 2P Male & Female pair 7.5mm pitch | Power connector | [Aliexpress](https://www.aliexpress.com/item/1005007605928815.html?spm=a2g0o.order_list.order_list_main.409.3d5d1802JZg5Wb) | ![XT60H Connector](images/XT60H_Pairs.png) ||
